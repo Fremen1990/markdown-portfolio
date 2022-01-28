@@ -1,1 +1,1 @@
-https://www.devthomas.pl/
+[DevThomas Portfolio](https://www.devthomas.pl)
